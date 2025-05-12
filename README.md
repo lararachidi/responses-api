@@ -4,12 +4,9 @@ Watch the step-by-step walkthrough for each script (with timestamps):
 
 ## 🎬 Demo video playlist
 
-<p align="center">
-  <a href="https://www.youtube.com/playlist?list=PLxa63PV1cn7AGqToKbLVMcBoDGx48ocaL" target="_blank">
-  </a>
-</p>
+https://www.youtube.com/playlist?list=PLxa63PV1cn7AGqToKbLVMcBoDGx48ocaL
 
-*Click the image to open the full playlist on YouTube (9 × short episodes, ~5 min each).*
+*Open the full playlist on YouTube (9 × short episodes, ~5 min each).*
 
 
 The **Responses API** is OpenAI’s next-gen interface for building agent-style applications.  
