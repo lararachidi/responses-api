@@ -10,9 +10,6 @@ Watch the step-by-step walkthrough for each script (with timestamps):
   </a>
 </p>
 
-[![Watch the demo playlist](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLxa63PV1cn7AGqToKbLVMcBoDGx48ocaL)
-
-
 *Click the image to open the full playlist on YouTube (9 × short episodes, ~5 min each).*
 
 
