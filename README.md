@@ -6,7 +6,6 @@ Watch the step-by-step walkthrough for each script (with timestamps):
 
 <p align="center">
   <a href="https://www.youtube.com/playlist?list=PLxa63PV1cn7AGqToKbLVMcBoDGx48ocaL" target="_blank">
-    <img src="docs/demo-playlist.png" alt="Click to watch the Responses-API demo playlist on YouTube" width="720">
   </a>
 </p>
 
