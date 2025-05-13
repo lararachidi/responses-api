@@ -29,7 +29,7 @@ response = client.chat.completions.create(
 print(response.choices[0].message.content)
 
 
-### Notes ####
+### Notes ###
 
 # Instead of a message, you receive a typed response object with its own id.
 # Responses are stored by default. Chat completions are stored by default for new accounts.
